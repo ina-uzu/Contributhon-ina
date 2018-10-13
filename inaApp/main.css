@@ -15,12 +15,12 @@ p {
 
 .input_text{
   text-align: center;
-  color: #FFF;
+  color: #000;
 }
 
 .input_text:focus{
   text-align: center;
-  color: #FFF;
+  color: #000;
   background-color: #FFD362;
 }
 .button {
