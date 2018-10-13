@@ -13,6 +13,16 @@ p {
   color: #FFF;
 }
 
+.input_text{
+  text-align: center;
+  color: #FFF;
+}
+
+.input_text:focus{
+  text-align: center;
+  color: #FFF;
+  background-color: #FFD362;
+}
 .button {
   width: 200px;
   padding: 20px;
